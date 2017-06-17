@@ -6,7 +6,7 @@ extra_packages = {
 }
 
 setup(
-    name='highest_profit',
+    name='Code Katas',
     description="""Auto generate thank you letters""",
     version='0.1',
     author='Carlos Cadena',
