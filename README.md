@@ -56,5 +56,11 @@
 - **Tests**: `test_find_capitals.py`
 - **URL**: [challenge url](https://www.codewars.com/kata/539ee3b6757843632d00026b/train/python)
 
+**Sort Deck of Cards(6th kyu)**
+
+- **Module**: `sort_cards.py`
+- **Tests**: `test_sort_cards.py`
+- **URL**: [challenge url](https://www.codewars.com/kata/sort-deck-of-cards/train/python)
+
 
 ...

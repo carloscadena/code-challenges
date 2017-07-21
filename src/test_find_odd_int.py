@@ -18,7 +18,7 @@ my_tests = [
 
 
 @pytest.mark.parametrize('entered, result', code_wars_tests)
-def test_find_odd_int(entered, result):
+def test_cw_find_odd_int(entered, result):
     from find_odd_int import find_it
     assert find_it(entered) == result
 
