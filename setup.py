@@ -1,8 +1,7 @@
 from setuptools import setup
 
-dependencies = ['pytest', 'pytest-cov']
 extra_packages = {
-    'testing': ['tox']
+    'testing': ['tox', 'pytest', 'pytest-cov']
 }
 
 setup(
@@ -12,9 +11,6 @@ setup(
     author='Carlos Cadena',
     author_email="cs.cadena@gmail.com",
     license="MIT",
-    py_modules=[],
     package_dir={'': 'src'},
-    install_requires=dependencies,
     extras_require=extra_packages,
-    entry_points={}
       )
