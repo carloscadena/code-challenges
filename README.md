@@ -72,6 +72,11 @@
 - **Tests**: `test_string_pyramid.py`
 - **URL**: https://www.codewars.com/kata/5797d1a9c38ec2de1f00017b
 
+**Forbes Top 40**
+- **Module**: `forbes.py`
+- **Tests**: `test_forbes.py`
+- **URL**: Not done on Code Wars
+
 
 
 ...
