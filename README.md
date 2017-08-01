@@ -62,5 +62,16 @@
 - **Tests**: `test_sort_cards.py`
 - **URL**: [challenge url](https://www.codewars.com/kata/sort-deck-of-cards/train/python)
 
+**Proper Parenthetics**
+- **Module**: `parenthetics.py`
+- **Tests**: `test_parenthetics.py`
+- **URL**: Not done on Code Wars
+
+**String Pyramid**
+- **Module**: `string_pyramid.py`
+- **Tests**: `test_string_pyramid.py`
+- **URL**: https://www.codewars.com/kata/5797d1a9c38ec2de1f00017b
+
+
 
 ...
