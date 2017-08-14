@@ -70,13 +70,17 @@
 **String Pyramid**
 - **Module**: `string_pyramid.py`
 - **Tests**: `test_string_pyramid.py`
-- **URL**: https://www.codewars.com/kata/5797d1a9c38ec2de1f00017b
+- **URL**: [challenge url](https://www.codewars.com/kata/5797d1a9c38ec2de1f00017b)
 
 **Forbes Top 40**
 - **Module**: `forbes.py`
 - **Tests**: `test_forbes.py`
 - **URL**: Not done on Code Wars
 
+**Prefill an Array**
+- **Module**: `prefill_array.py`
+- **Tests**: `test_prefill_array.py`
+- **URL**: [challenge url](https://www.codewars.com/kata/54129112fb7c188740000162/train/python)
 
 
 ...
