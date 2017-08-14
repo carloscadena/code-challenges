@@ -67,7 +67,7 @@
 - **Tests**: `test_parenthetics.py`
 - **URL**: Not done on Code Wars
 
-**String Pyramid**
+**String Pyramid(6th kyu)**
 - **Module**: `string_pyramid.py`
 - **Tests**: `test_string_pyramid.py`
 - **URL**: [challenge url](https://www.codewars.com/kata/5797d1a9c38ec2de1f00017b)
@@ -77,7 +77,7 @@
 - **Tests**: `test_forbes.py`
 - **URL**: Not done on Code Wars
 
-**Prefill an Array**
+**Prefill an Array(5th kyu)**
 - **Module**: `prefill_array.py`
 - **Tests**: `test_prefill_array.py`
 - **URL**: [challenge url](https://www.codewars.com/kata/54129112fb7c188740000162/train/python)
